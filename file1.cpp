@@ -15,3 +15,8 @@ public: // akses modifier
         cout << "Masukkan lebar : ";
         cin >> lebar;
     }
+
+    int luasPp(int a, int b)
+    {
+        return a * b;
+    }
