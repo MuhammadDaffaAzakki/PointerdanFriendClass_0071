@@ -20,3 +20,11 @@ public: // akses modifier
     {
         return a * b;
     }
+
+    Lingkaran ol;
+
+};
+
+class Lingkaran
+{
+    
